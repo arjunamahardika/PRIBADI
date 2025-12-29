@@ -9,11 +9,9 @@ This application has no explicit mapping for /error, so you are seeing this as a
 #EXTM3U
  
 
+#EXTINF:-1 tvg-logo="https://h.top4top.io/p_34757ib8f1.png" group-title="DIAZ TV",DISCLAMER https://d.top4top.io/m_3475gwsau1.mp4
 
-
- #EXTINF:-1 tvg-logo="https://c.top4top.io/p_3650sgsfc1.png" group-title="INFO",DISCLAMER
-https://h.top4top.io/m_3650eo90w1.mp4
-
+#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3650sgsfc1.png" group-title="INFO",DISCLAMER https://h.top4top.io/m_3650eo90w1.mp4
            <=================== "CCTV ➤ =============================>
 
 
