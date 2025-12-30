@@ -8,7 +8,7 @@ This application has no explicit mapping for /error, so you are seeing this as a
  
 #EXTM3U
  
-#EXTINF:-1 group-title="YOYO TV" tvg-logo="https://c.top4top.io/p_3650bkn6g1.png",DISCLAMER
+#EXTINF:-1 group-title="INFO" tvg-logo="https://c.top4top.io/p_3650bkn6g1.png",DISCLAMER
 https://c.top4top.io/m_3650zt32w1.mp4
 
 
