@@ -9,325 +9,68 @@ This application has no explicit mapping for /error, so you are seeing this as a
 #EXTM3U
  
 
-#EXTINF:-1 tvg-logo="https://h.top4top.io/p_34757ib8f1.png" group-title="DIAZ TV",DISCLAMER https://d.top4top.io/m_3475gwsau1.mp4
-
-<=================== "INFO" =============================>
-
-#EXTINF:-1 tvg-logo="https://c.top4top.io/p_3650sgsfc1.png" group-title="INFO",DISCLAMER https://h.top4top.io/m_3650eo90w1.mp4
-  
-           
-           
-           <=================== "CCTV ➤ =============================>
-
-
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",NOL KM (1)
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",NOL KM (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/KMNol.stream/chunklist_w327255893.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Kawasan Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/chunklist_w1039454854.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Tugu
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/chunklist_w1865669256.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Pingit (1)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit1.stream/chunklist_w1034097150.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Pingit (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit2.stream/chunklist_w1313710975.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Pingit (3)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit3.stream/chunklist_w1967862192.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Pingit (4)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_Pingit4.stream/chunklist_w43813416.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Pertigaan Jl. Kyai Mojo (Toko A.Takrib) 1
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/chunklist_w557891769.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",BPK
-https://mam.jogjaprov.go.id:1937/atcs-kota/BPK.stream/chunklist_w924060688.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Wirobrajan
-https://mam.jogjaprov.go.id:1937/atcs-kota/Wirobrajan.stream/chunklist_w1481120965.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Patangpuluhan (SPBU Bugisan) (1)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni1.stream/chunklist_w572908058.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Patangpuluhan (SPBU Bugisan) (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_SugengJeroni2.stream/chunklist_w1112828954.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Terban (KFC Sudirman)
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/chunklist_w750897143.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Mirota Kampus Simanjuntak
-https://mam.jogjaprov.go.id:1937/atcs-kota/MirotaKampus.stream/chunklist_w19614407.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Demangan (Empire XXI) 1
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/chunklist_w241056475.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Demangan (Empire XXI) 2
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w198073159.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Simpang Demangan (Empire XXI) 3
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/chunklist_w1165720762.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Depan Hotel Grand Mercure
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/chunklist_w1443260072.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Plaza Ambarrukmo
-http://103.71.191.168/8912/hls/live.stream.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Hotel Cavinton
-https://mam.jogjaprov.go.id:1937/atcs-kota/Serangan.stream/chunklist_w692658022.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Hotel Inna Garuda (1)
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/chunklist_w90059632.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Malioboro Mall
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w2049014652.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Beringharjo
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Alun-Alun Selatan
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_w133850215.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Gondomanan
-https://mam.jogjaprov.go.id:1937/atcs-kota/Gondomanan.stream/chunklist_w1404126465.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Pasar Gading (DayTrans Travel) (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_PasarGading2.stream/chunklist_w1134102916.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Jokteng Wetan (Dealer Piaggio)
-https://mam.jogjaprov.go.id:1937/atcs-kota/JoktengWetan.stream/chunklist_w1016905556.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Jl. Kol. Sugiyono (Dealer Mitsubishi) (1)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono1.stream/chunklist_w1152700400.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Jl. Kol. Sugiyono (Dealer Mitsubishi) (2)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_KolSugiono2.stream/chunklist_w1071462869.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Lempuyangan (Toko Intisari)
-https://mam.jogjaprov.go.id:1937/atcs-kota/Tunjung.stream/chunklist_w555549290.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Gayam
-https://mam.jogjaprov.go.id:1937/atcs-kota/Gayam.stream/chunklist_w1910678128.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Kauman
-https://mam.jogjaprov.go.id:1937/atcs-kota/Permata.stream/chunklist_w205073418.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Pertigaan Tamsis
-https://mam.jogjaprov.go.id:1937/atcs-kota/Sentul.stream/chunklist_w1107545712.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Taman Makam Pahlawan Kusumanegara
-https://mam.jogjaprov.go.id:1937/atcs-kota/Cendana.stream/chunklist_w417543410.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",GOR Amongrogo
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/chunklist_w569088877.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Timoho (Kampus APMD)
-https://mam.jogjaprov.go.id:1937/atcs-kota/APMD.stream/chunklist_w1680669229.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Perempatan XT Square Pintu Belakang
-https://mam.jogjaprov.go.id:1937/atcs-kota/Simpang_MenteriSupeno2.stream/chunklist_w1057610383.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",SGM
-https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangSGM.stream/chunklist_w267449320.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Candi Sambisari
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/chunklist_w993506618.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Merapi
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Embung Nglanggeran
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w172440882.m3u8
-#EXTINF:-1 group-title="CCTV ➤ Jogja" tvg-logo="https://i.postimg.cc/ncMZ8NSy/Jogja-Istimewa.png",Tebing Breksi
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w1301384993.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Pasar Lama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:https://polresbanjar.net
-https://stream4.banjarkab.go.id/ieh6iop2LPQjXdJkoqc32uDUWnW7SK/hls/banjarkab/KERTAKHANYAR/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Gerilya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/DHizjVIP0W/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang RK Ilir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/qjtWqXluHE/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Mulawarman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/gHaVkDVK0b/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Veteran
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/iyYLs1kYnR/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Fly Over
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/BPXG9A4gnu/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Jafri Zam Zam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/h6Vo2yINJt/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Kamboja
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/xqfJauxCgF/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Jembatan Alalak Arah Luar Kota
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/j8yfsrNy6R/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Cemara Hasan Basri
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/tXFAUNbubr/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Jalan SParman U Turn ( Arah Luar Kota )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/8F8YRvv1Pq/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Jalan SParman U Turn ( Arah Dalam Kota )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/9itxvauoOi/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Belitung
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/PNojYeBKDv/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Jembatan Sungai Andai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/fw7KmrXWl9/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Sultan Adam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/dUASq5ZjHs/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Tarakan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/THUF5wQFs2/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Antasari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/92XUhaBa1x/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang A Yani Antasari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/IbQA7j9D3k/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang A Yani Kuripan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/Ep6CgYqoCN/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Kol Sugiono
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/xKRCOz839a/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang A Yani KM 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/9Bq9yM4MRL/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Jalan A Yani U Turn KM 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/dUi1Zgl86v/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Jalan A Yani KM 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/2rIO8K38EP/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang Merdeka Mesjid Raya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/xPULo6ZIMd/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg" group-title="CCTV BANJARMASIN", Simpang 4 Mentari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/gghZcG0PrO/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7ZdBWJWrTfCcPjVBzQrwGTG5KE4N-ke0QTejA57R-Zeg-v7jcgxKzCxACjqnSj3A5E_CJtlvG8D2w_KPZFnK9J-lfl2S7yrCSg5m6JRRt-QKRNbAYt5REYZ2vQfJv-UCx7xN7fCz_APT/s1600/Slider-3-Masjid_Sabilal_Muhtadin-BanjarmasinTourism.jpg"group-title="CCTV BANJARMASIN", Halaman Jembatan Pulau Bromo
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.kalselprov.go.id/
-https://stream.rpd.my.id:8080/cctv/hls/bjr_simpang_tiga_sekumpul_ujung.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", JRAKAH
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/2701/2024/8795266c-ebc3-4a95-8827-b82360403f0a_2701.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", EXIT TOL KRAPYAK
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/801/2024/8795266c-ebc3-4a95-8827-b82360403f0a_801.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", KYAI SALEH
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_201.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", Thamrin-Pandanaran
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/301/2024/8795266c-ebc3-4a95-8827-b82360403f0a_301.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", KALIBANTENG
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/701/2024/8795266c-ebc3-4a95-8827-b82360403f0a_701.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", KALIBANTENG 2
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/1301/2024/8795266c-ebc3-4a95-8827-b82360403f0a_1301.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", HANOMAN
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/3101/2024/8795266c-ebc3-4a95-8827-b82360403f0a_3101.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", PASAR KARANGAYU
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/3201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_3201.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", SIMPANG LIMA
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/4001/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4001.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", SIMPANG LIMA 2
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/4101/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4101.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", TUGUMUDA
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/101/2024/8795266c-ebc3-4a95-8827-b82360403f0a_101.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", TUGUMUDA 2
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/5001/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5001.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", DPU-Terowongan Soetta
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/10245/201/2024/4f342efc-f056-40e1-9aec-de108871d218_201.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", KALIWIRU
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/4301/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4301.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", Ki Mangun Sarkoro
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/401/2024/8795266c-ebc3-4a95-8827-b82360403f0a_401.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", BANGKONG
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/501/2024/8795266c-ebc3-4a95-8827-b82360403f0a_501.m3u8
-
-#EXTINF:-1 tvg-logo="http://cariloka.com/atcscctvindon/ic_atcscctvindon.png" group-title="Live LALIN semarang", KARIADI
-#EXTVLCOPT:http-referrer=https://sgv.letv8.cc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://livepantau.semarangkota.go.id/hls/414/901/2024/8795266c-ebc3-4a95-8827-b82360403f0a_901.m3u8
+                           <=================== "🔵FILM" =============================>
 
 
 
-
-
-
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/4f/12/4f/4f124f053c4768d0dddd58d580ff6c84.jpg",KPLUS
+http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/32/1f/13/321f13be5d8e1a2c481711cb7177f438.jpg",CINEMACHI
+https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/41/b2/22/41b2227750488748fbc27e39d9681187.jpg",CINEMACHI ACTION
+https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/cd/21/1d/cd211d505672522c820da5623e7c65a2.jpg",CINEMACHI MAX
+https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/76/c5/7f/76c57f75e6dc85785d39475db52574a4.jpg",CINEMACHI XTRA
+https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+#EXTINF:-1 group-title="🔵FILM🔵FILM" tvg-logo="https://i.pinimg.com/236x/b0/7f/35/b07f351636ad3a69a6968ef61f5c2dfa.jpghttps://i.pinimg.com/236x/db/b1/69/dbb1697f3595c368f28ec27bdf648769.jpg",MY FAMLY CHANNELCOMEDY CENTRAL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/74/00/39/74003970912407ba7413996efea961ab.jpg",MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/c7/4e/f2/c74ef24d62e7b57011e78eb48a128863.jpg",MYTIME MOVIE
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/ef/1d/ca/ef1dcab5964b8843752163324889818c.jpg",SHEMAROO BOLLY
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/44/8c/46/448c469c8fa16baeec0cfa359e7ddcdc.jpg",Movie Music
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/3291200/manifest.m3u8
+#EXTINF:-1 group-title="🔵FILM🔵FILM" tvg-logo="https://i.pinimg.com/236x/1a/27/9e/1a279ec2a3e0c44ca143c18d1ae84ddf.jpghttps://i.pinimg.com/236x/b4/4f/8b/b44f8bdfc1cd7fc12e8fb52446b270d2.jpg",Sony PIX HDMN+
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/bc/a6/46/bca646faec18d4a728e58e8f5e472793.jpg",MNX
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/29/b2/18/29b218fea41f9c5b1db7c46f69fbc7e4.jpg",MOVIES NOW
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/74/73/b5/7473b50787b52486032729b0504fdeb0.jpg",BOLLY TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/73/3f/3b/733f3b353376675a9b85650d0b3973db.jpg",HOOLY TV
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/c1/cf/45/c1cf45c2b0fb1bac82b37b6a8838a8d9.jpg",MCE
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/65/59/a0/6559a0b50bb2e9ecc2fbd8e9c8b70cce.jpg",VCINE
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/e6/a6/d4/e6a6d4d4a68d0a751bbf7d7c808f8d90.jpg",PBO
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/3d/fa/66/3dfa667cb206af3b03ad128186d1d5a5.jpg",SIAR
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
+#EXTINF:-1 group-title="🔵FILM🔵FILM🔵FILM🔵FILM🔵FILM🔵FILM🔵FILM" tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpghttps://i.pinimg.com/236x/7a/90/a4/7a90a488e5f540d4d381754367e8da1a.jpghttps://i.pinimg.com/236x/d7/14/9a/d7149a213a4d0aeafda51c556df8f360.jpghttps://i.pinimg.com/236x/78/90/6f/78906fa52762b61283843c42bb51c5c0.jpghttps://i.pinimg.com/236x/e0/04/64/e00464bc9d565dcb0fdcfa4cf9bc859a.jpghttps://i.pinimg.com/736x/a9/96/ed/a996ed4423412f236de06f1f0d8da2c8.jpghttps://i.pinimg.com/736x/a9/96/ed/a996ed4423412f236de06f1f0d8da2c8.jpg",HBO INDOHBO HITS INDOHBO FAMILY INDOHBO SIGNATURE INDOCINEMAX INDOWARNERTVWARNERTV US
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/736x/5f/d9/37/5fd93746d8df4cb543bd882c2a411652.jpg",UNIVERSAL SD
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/736x/bb/f6/ba/bbf6ba90552ae0cc18cda5cde4b4abfc.jpg",Zee Cinema ᴴᴰ
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/736x/bb/f6/ba/bbf6ba90552ae0cc18cda5cde4b4abfc.jpg",Z TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg",INTERNATIONAL HBO
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/10/39/13/103913b4bcfabe622610806d388198f9.jpg",Popstar! TV
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/b7/82/48/b782485663b8d0601566a07b77786b14.jpg",MIRAMAX
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/d0/d1/2a/d0d12a28aa609aae61bee431b1f94897.jpg",HERSPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/2b/67/c6/2b67c6b251340952e5d3a3f210b0732d.jpg",OUTERSPHERE
+https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/55/c7/ab/55c7ab61063c2c5bf9a3ddeb90b26879.jpg",Horror Machine
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
