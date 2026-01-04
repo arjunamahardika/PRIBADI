@@ -39,17 +39,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgu
 #EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/55/c7/ab/55c7ab61063c2c5bf9a3ddeb90b26879.jpg",Horror Machine 
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/2b/67/c6/2b67c6b251340952e5d3a3f210b0732d.jpg",OUTERSPHERE https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8 
-
-#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/74/73/b5/7473b50787b52486032729b0504fdeb0.jpg",BOLLY TV https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8 
-
 #EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/74/00/39/74003970912407ba7413996efea961ab.jpg",MOVIE SPHERE 
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 
 
 
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/74/73/b5/7473b50787b52486032729b0504fdeb0.jpg",BOLLY TV https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8 
 
-
-
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/2b/67/c6/2b67c6b251340952e5d3a3f210b0732d.jpg",OUTERSPHERE https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8 
 
 
 
