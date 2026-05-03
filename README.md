@@ -25,10 +25,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 
 #EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/73/3f/3b/733f3b353376675a9b85650d0b3973db.jpg",HOOLY TV 
-https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8 
-
-#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/10/39/13/103913b4bcfabe622610806d388198f9.jpg",Popstar! TV 
-https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8 
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8  
 
 #EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.pinimg.com/236x/b7/82/48/b782485663b8d0601566a07b77786b14.jpg",MIRAMAX 
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8 
