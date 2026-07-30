@@ -32,19 +32,26 @@ This application has no explicit mapping for /error, so you are seeing this as a
 
 █ █▀█ ▀█▀ █ █ 
 █ █▀▀  █   █  
+
+
+
 #EXTM3U
 
-#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network 
+https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/c7/4e/f2/c74ef24d62e7b57011e78eb48a128863.jpg",MYTIME MOVIE https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free 
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/74/00/39/74003970912407ba7413996efea961ab.jpg",MOVIE SPHERE https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
-#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/T7bGKeV.jpg",&PRIVE ᴴᴰ https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/T7bGKeV.jpg",&PRIVE ᴴᴰ 
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/ef/1d/ca/ef1dcab5964b8843752163324889818c.jpg",SHEMAROO BOLLY https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
@@ -66,7 +73,8 @@ This application has no explicit mapping for /error, so you are seeing this as a
 
 #EXTINF:-1 group-title="📺| FILM🔵",US UniMas http://nocable.cc:8080/617321/432823/57969
 
-#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png",US Univision (East) (SP) http://nocable.cc:8080/617321/432823/15336
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png",US Univision (East) (SP) 
+http://nocable.cc:8080/617321/432823/15336
 
 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png",US 5 StarMax http://nocable.cc:8080/617321/432823/13381
 
@@ -74,12 +82,19 @@ This application has no explicit mapping for /error, so you are seeing this as a
 
 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://juicetv.app/channellogo/ae.png",US A&E (A) http://nocable.cc:8080/617321/432823/2201
 
-#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",USA: ABC http://nocable.cc:8080/617321/432823/22990
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",USA: ABC 
+http://nocable.cc:8080/617321/432823/22990
 
-#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://b.thumbs.redditmedia.com/vjPoCrRZM-0Guub5k9HskQWodjmjP1OF3myBvaqLWGE.png",US ACC Network (A) http://nocable.cc:8080/617321/432823/9273
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://b.thumbs.redditmedia.com/vjPoCrRZM-0Guub5k9HskQWodjmjP1OF3myBvaqLWGE.png",US ACC Network (A) 
+http://nocable.cc:8080/617321/432823/9273
 
-#EXTINF:-1 group-title="📺| FILM🔵",US ActionMAX (East) http://nocable.cc:8080/617321/432823/21013
+#EXTINF:-1 group-title="📺| FILM🔵",US ActionMAX (East) 
+http://nocable.cc:8080/617321/432823/21013
 
 #EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png",US AMC http://nocable.cc:8080/617321/432823/18925
+
+
+
+
 
 #EXTINF:-1 group-title="📺| FILM🔵",US American Heroes Channel http://nocable.cc:8080/617321/432823/10456
